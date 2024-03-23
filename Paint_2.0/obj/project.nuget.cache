@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eVhhjteIFU/mLV25v8LuIyCY41ELI4crJQKU5RFIkGDpBDVYFo7JJp2hVB+uLXK2YZKNjZuvPgLIq2XA/SlDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasty\\Source\\Repos\\Paint-2.0okonchatelniy\\Paint_2.0\\Paint_2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasty\\.nuget\\packages\\excss\\4.2.3\\excss.4.2.3.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\svg\\3.4.7\\svg.3.4.7.nupkg.sha512",
+    "C:\\Users\\nasty\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

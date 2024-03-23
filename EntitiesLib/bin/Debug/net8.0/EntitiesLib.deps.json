@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntitiesLib/1.0.0": {
+        "dependencies": {
+          "GeometryUtils": "1.0.0"
+        },
+        "runtime": {
+          "EntitiesLib.dll": {}
+        }
+      },
+      "GeometryUtils/1.0.0": {
+        "runtime": {
+          "GeometryUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntitiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

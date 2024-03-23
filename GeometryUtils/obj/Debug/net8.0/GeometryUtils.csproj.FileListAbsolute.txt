@@ -1,0 +1,12 @@
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\bin\Debug\net8.0\GeometryUtils.deps.json
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\bin\Debug\net8.0\GeometryUtils.dll
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\bin\Debug\net8.0\GeometryUtils.pdb
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.AssemblyInfoInputs.cache
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.AssemblyInfo.cs
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.sourcelink.json
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.dll
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\refint\GeometryUtils.dll
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\GeometryUtils.pdb
+C:\Users\nasty\Source\Repos\Paint-2.0okonchatelniy\GeometryUtils\obj\Debug\net8.0\ref\GeometryUtils.dll
